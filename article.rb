@@ -11,9 +11,11 @@ class Article
     @@all << self
   end
 
+  # Returns an array of all Article instances
   def self.all
     @@all
   end
 end
+
 
 
