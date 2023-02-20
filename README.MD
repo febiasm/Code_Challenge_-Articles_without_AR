@@ -1,4 +1,4 @@
-# Magazine
+# Magazine Domain
 This project simulates a Magazine domain using three classes: Author, Article, and Magazine.
 
 The system involves three key classes: Author, Article, and Magazine. It enables Authors to create multiple Articles and Magazines to publish numerous Articles. Each Article belongs to both an Author and a Magazine, resulting in a many-to-many relationship between the two.
