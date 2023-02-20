@@ -33,7 +33,4 @@ class Magazine
 end
 
 
-# forbes = Magazine.new('Forbes India Magazine', 'Food')
-# filmfare = Magazine.new('Filmfare India Magazine', 'entertainment')
 
-# pp "all #{Magazine.find_by_name(name)}"

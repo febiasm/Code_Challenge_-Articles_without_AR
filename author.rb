@@ -30,9 +30,3 @@ class Author
   end
 end
 
-
-#  jane = Author.new('Jane')
-#  trevor = Author.new('Febias')
-
-# puts "list of author #{Author.all}"
-
