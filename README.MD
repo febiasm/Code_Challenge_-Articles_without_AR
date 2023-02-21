@@ -19,7 +19,34 @@ Change the directory into the project folder by running the command:
 Open the project in your preferred code editor using the command:
 
     code .
+# You can create your own sample instances to test the code.
 
+    Class Methods
+- .all - Returns an array of all Magazine objects.
+
+- .find_by_name(name) - Given a magazine name string, returns the first Magazine object that matches.
+
+    Instance Methods
+
+- .name - Returns the name of the magazine.
+
+- .category - Returns the category of the magazine.
+
+- .article_titles - Returns an array of title strings for all Article objects written for that magazine.
+
+- .contributors - Returns an array of Author objects who have written for that magazine.
+
+    Article
+    Class Methods
+
+- .all - Returns an array of all Article objects.
+Instance Methods
+
+- .title - Returns the title string for the article.
+
+- .author - Returns the Author object for the article.
+
+- .magazine - Returns the Magazine object for the article.
 
 ## Classes
 The project has the following classes:
@@ -49,8 +76,6 @@ Represents a magazine, with the following listed attributes:
 
 ## Running the Program
 After setting up the project, you can run the program by executing the run.rb file. This will create instances of the classes and allow you to try out the methods in the console.
-
-You can create your own sample instances to test your code.
 
 ## Technologies Used
 Ruby
