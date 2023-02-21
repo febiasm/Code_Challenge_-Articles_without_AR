@@ -53,14 +53,14 @@ The project has the following classes:
 ### Author
 Represents an author, with the following attributes:
 
-- id: The author's unique identifier.
+
 - name: The author's name.
 - articles: A list of the author's articles.
 
 ### Article
 Represents an article, with the following attributes:
 
-- id: The article's unique identifier.
+
 - title: The article's title.
 - body: The article's body content.
 - author: The article's author.
@@ -69,7 +69,7 @@ Represents an article, with the following attributes:
 ### Magazine
 Represents a magazine, with the following listed attributes:
 
-- id: The magazine's unique identifier.
+ 
 - name: The magazine's name.
 - articles: A list of the magazine's articles.
 
