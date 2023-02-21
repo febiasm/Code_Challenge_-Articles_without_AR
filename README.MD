@@ -38,10 +38,10 @@ Represents an article, with the following attributes:
 - title: The article's title.
 - body: The article's body content.
 - author: The article's author.
-- magazine: The magazine the article belongs to.
+- magazine: The magazine the article belongs to
 
 ### Magazine
-Represents a magazine, with the following attributes:
+Represents a magazine, with the following listed attributes:
 
 - id: The magazine's unique identifier.
 - name: The magazine's name.
