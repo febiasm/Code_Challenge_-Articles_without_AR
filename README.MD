@@ -21,12 +21,12 @@ Open the project in your preferred code editor using the command:
     code .
 # You can create your own sample instances to test the code.
 
-    Class Methods
+ #### Class Methods
 - .all - Returns an array of all Magazine objects.
 
 - .find_by_name(name) - Given a magazine name string, returns the first Magazine object that matches.
 
-    Instance Methods
+#### Instance Methods
 
 - .name - Returns the name of the magazine.
 
@@ -36,8 +36,8 @@ Open the project in your preferred code editor using the command:
 
 - .contributors - Returns an array of Author objects who have written for that magazine.
 
-    Article
-    Class Methods
+   ### Article
+    #### Class Methods
 
 - .all - Returns an array of all Article objects.
 Instance Methods
